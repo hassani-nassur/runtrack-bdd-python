@@ -1,0 +1,1 @@
+--instalation de mysql c'est fait

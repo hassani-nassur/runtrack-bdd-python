@@ -1,0 +1,1 @@
+SELECT COUNT(*) FROM `ETUDIANTS` WHERE `age` >=18 AND `age` <= 25;

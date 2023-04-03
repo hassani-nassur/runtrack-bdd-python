@@ -1,0 +1,1 @@
+SELECT `nom`,`prenom`, MAX(age) as age_max, `email` FROM `etudiants`;
